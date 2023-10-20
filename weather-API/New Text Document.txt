@@ -1,0 +1,2 @@
+https://stackoverflow.com/questions/33946925/how-do-i-get-geolocation-in-openweather-api
+https://www.youtube.com/watch?v=AMpkXMU0IkI
