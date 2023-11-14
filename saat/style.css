@@ -1,0 +1,57 @@
+body {
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #495E57;
+    /* background-size: cover; */
+    overflow: hidden;
+    color: #F5F7F8;
+}
+
+h2 {
+    font-size: 32px;
+    letter-spacing: 12px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.saatler {
+    display: flex;
+}
+
+.saatler div {
+    margin: 6px;
+    position: relative;
+}
+
+.saatler span {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: larger;
+    width: 100px;
+    height: 80px;
+    padding: 2px;
+    margin: 5px;
+    background-color: #F4CE14;
+}
+
+.saatler #yazi {
+    height: 30px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    background-color: #45474B;
+    /* opacity: .7; */
+}
+
+.saatler #pmam {
+    bottom: 0;
+    position: absolute;
+    height: 30px;
+    width: 40px;
+    background-color: #45474B;
+}
